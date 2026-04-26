@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^7.0.8",
+    "alpinejs": "3.14.1",
     "astro": "6.1.9"
   }
 }
